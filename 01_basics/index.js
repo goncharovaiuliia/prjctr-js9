@@ -10,7 +10,7 @@
 // }
 // console.log(userName);
 
-let count = 10n;
+let count = 10;
 
 const name = 'Ivan';
 const name2 = "Ivan";
