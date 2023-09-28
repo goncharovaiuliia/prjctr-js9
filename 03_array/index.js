@@ -1,5 +1,5 @@
-let users = new Array();
-let specialUsers = new Array();
+let users = [];
+let specialUsers = [];
 
 users = ["Igor", "Olga", "Vasilii"];
 
